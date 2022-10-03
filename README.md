@@ -1,4 +1,4 @@
-# Weather_Station
+# Weather Station
 Arduino weather station assignment for CMP101 Computer Hardware Architectures and Operating Systems
 
 Required parts:
